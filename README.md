@@ -187,4 +187,4 @@ SOFTWARE.
 If you have any questions or feedback, feel free to reach out:
 
 - **GitHub**: (https://github.com/SamerAlas)  
-- **Email**: (mailto:sam.sasamer@gmail.com)
+- **Email**: (sam.sasamer@gmail.com)
